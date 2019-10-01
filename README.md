@@ -1,7 +1,6 @@
 # iOS mobile app developement
 
-C345 - Mobile App Developemtn, Group Project (Member: Nick Huinker)
-===================================================================
+***C345 - Mobile App Development, Group Project (Member: Nick Huinker)***
 
 Identifying correct color name, shapes and matching them.
 
