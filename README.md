@@ -1,8 +1,8 @@
-# iOS mobile app
+# iOS mobile app developement
 
-Group Project (Team Member: Nick Huinker)
+C345 - Mobile App Developemtn, Group Project (Member: Nick Huinker)
+===================================================================
 
 Identifying correct color name, shapes and matching them.
 
-This is an ios app that helps kids to learn shapes and color. This was the final project of class CS345 - Mobile App Development. This app has not be published anywhere, however we can 
-still run it over a simulator in xcode. 
+This is an ios based program that helps kids to learn shape, color and match them. This program was part of the final project of undergrad class CS345. This app has not be published anywhere, however it can still be tested and used over the xcode simulator or an actual iPhone.
